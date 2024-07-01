@@ -138,5 +138,5 @@ Lastly, I created the OBJ_Database.cpp to put it all together. The part that kin
 
 Watch Video for the showcase of the OpenGL
 
-[![Watch Video](showcasephoto.PNG)](https://www.youtube.com/watch?v=pHtLg5zigi8){:target="_blank" rel="noopener"}
+[![Watch Video](showcasephoto.PNG)](https://www.youtube.com/watch?v=pHtLg5zigi8){target=&quot;_blank&quot}
 
