@@ -1,7 +1,5 @@
 # Brian Peters 3 Artifacts ePortfolio
 
-## Showcase Video
-
 ## Goal: 
 The goal is to enhance the light shader in OpenGL, have it change colors manually for the first artifact, automatically change color and have a movement system in the second artifact, and third and last artifact is how to store obj file into mysql database
 
@@ -135,5 +133,5 @@ Lastly, I created the OBJ_Database.cpp to put it all together. The part that kin
 
 ## Showcase Video
 
-[![showcase](https://www.youtube.com/watch?v=pHtLg5zigi8)]
+[![showcase](GitHubPic/Picture21.png)](https://www.youtube.com/watch?v=pHtLg5zigi8)
 
