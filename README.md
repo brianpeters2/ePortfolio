@@ -14,7 +14,7 @@ In the doc file, that will explain of what I have enhanced
 
 I created this in the lamp shader, so it goes into the vertex shader and out to the fragment shader.
 (line 171)
- [](pic1.png)
+ ![](pic1.png)
 Staying in the lamp shader, I added the integer “flip” where the function will be found through the vertex.
 (Line 176)
  
