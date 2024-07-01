@@ -137,6 +137,7 @@ Lastly, I created the OBJ_Database.cpp to put it all together. The part that kin
 ## Showcase Video
 
 Watch Video for the showcase of the OpenGL
+Adds target="_blank" and rel="noopener" to external links
 
 [![Watch Video](showcasephoto.PNG)](https://www.youtube.com/watch?v=pHtLg5zigi8)
 
