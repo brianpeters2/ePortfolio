@@ -1,15 +1,16 @@
-# Arifacts 1 - Software and Design Engineering and
-# Artifact 2 - Algorthms and Data Structures are in the OpenGL
+# Brian Peters 3 Artifacts
+## Arifacts 1 - Software and Design Engineering and
+## Artifact 2 - Algorthms and Data Structures are in the OpenGL
 
 cs330 is the sln file to run the program which includes the module 6 folder. 
 
-# Artifact 3 - Database
+## Artifact 3 - Database
 
 For the OBJ DDL file is the database to store OBJ files and the parse file is in the OBJ code folder
 
 In the doc file, that will explain of what I have enhanced
 
-# Artifact 1 – Software Design and Engineering
+## Artifact 1 – Software Design and Engineering
 
 I created this in the lamp shader, so it goes into the vertex shader and out to the fragment shader.
 (line 171)
@@ -36,7 +37,7 @@ Here's another part that I had a hard time with how this works. glUniformLocatio
  
 After all that, the lamp can change colors. With this process, there was a lot of learning just because of enhancing code as your project.
  
-# Artifact 2 – Algorithms and Data Structure
+## Artifact 2 – Algorithms and Data Structure
 
 To recap what I will be reusing is the color change if-else code
 (Line 203-219)
@@ -61,7 +62,7 @@ Then I set the loop up for the number of colors equal to 5 which is the number o
 I also decided to add movement of the light and see if I could figure out a way to do so and I did! Here’s the code for that 
  
  
-# Artifact 3 – Database
+## Artifact 3 – Database
 
 This one was a complete overhaul after instructor feedback. The plan was to store data of the object file in the database system. To start, I created a database called “obj_data” and made tables of vertices, textures, normals, and faces. The vertices contain x, y, and z values and they were a float that way they could contain a decimal point. Textures had u and v as float. Normals had nx, ny, and nz as floats. Lastly, faces had indices of vertex, texture, and normals by using varchar or as in storing text at 255 for the maximum. After that, I created a DDL for the database – 
  
