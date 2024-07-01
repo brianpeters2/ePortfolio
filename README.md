@@ -135,5 +135,5 @@ Lastly, I created the OBJ_Database.cpp to put it all together. The part that kin
 
 ## Showcase Video
 
-![](showcase.mp4)
+[![](showcase.mp4)]
 
