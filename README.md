@@ -129,9 +129,11 @@ Then after speaking to a tutor about what I needed to do next, I needed to parse
  
 Then I created a OBJLoader.h file which I have done before. This way is to struct the values which defines them.
 
-## Showcase Video
-![](showcase.mp4)
 ![](GitHubPic/Picture21.png)
  
 Lastly, I created the OBJ_Database.cpp to put it all together. The part that kind of concerns me is security features.
+
+## Showcase Video
+
+![](showcase.mp4)
 
