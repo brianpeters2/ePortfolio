@@ -1,7 +1,7 @@
 # Brian Peters 3 Artifacts ePortfolio
 
 ## Intorduction
-I'm Brian Peters and I am an entry level software engineer with a bachelors. I specialize in C++, OpenGL, and MySQL for database. I am looking forward to work with OpenGL or DirectX coding since DirectX is commonly used and I have skills that can be transferrable from what I learn in OpenGL. I have three artifacts down below to show what I did step by step, and what was the goal. 
+I'm Brian Peters and I am an entry level software engineer with a bachelors. I specialize in C++, OpenGL, and MySQL for database. I am looking forward to work with OpenGL or DirectX coding since DirectX is commonly used and I have skills that can be transferrable from what I learn in OpenGL. I have three artifacts down below to show what I did step by step, and what are the goals. 
 
 ## Goal: 
 The goal is to enhance the light shader in OpenGL, have it change colors manually for the first artifact, automatically change color and have a movement system in the second artifact, and third and last artifact is how to store obj file into mysql database
