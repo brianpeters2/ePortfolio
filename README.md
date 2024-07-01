@@ -1,4 +1,4 @@
-# Brian Peters 3 Artifacts
+# Brian Peters 3 Artifacts ePortfolio
 
 ## Goal: 
 The goal is to enhance the light shader in OpenGL, have it change colors manually for the first artifact, automatically change color and have a movement system in the second artifact, and third and last artifact is how to store obj file into mysql database
