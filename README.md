@@ -1,5 +1,7 @@
 # Brian Peters 3 Artifacts ePortfolio
 
+## Showcase Video
+
 ## Goal: 
 The goal is to enhance the light shader in OpenGL, have it change colors manually for the first artifact, automatically change color and have a movement system in the second artifact, and third and last artifact is how to store obj file into mysql database
 
@@ -127,6 +129,8 @@ Then after speaking to a tutor about what I needed to do next, I needed to parse
  
 Then I created a OBJLoader.h file which I have done before. This way is to struct the values which defines them.
 
+## Showcase Video
+![](showcase.mp4)
 ![](GitHubPic/Picture21.png)
  
 Lastly, I created the OBJ_Database.cpp to put it all together. The part that kind of concerns me is security features.
