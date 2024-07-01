@@ -13,8 +13,11 @@ In the doc file, that will explain of what I have enhanced
 ## Artifact 1 – Software Design and Engineering
 
 I created this in the lamp shader, so it goes into the vertex shader and out to the fragment shader.
+
 (line 171)
+
  ![](GitHubPic/pic1.png)
+ 
 Staying in the lamp shader, I added the integer “flip” where the function will be found through the vertex.
 (Line 176)
  
